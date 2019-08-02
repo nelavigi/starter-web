@@ -2,3 +2,4 @@
 *.orig
 *.java
 xxx.txt
+node_modules
