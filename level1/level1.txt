@@ -1,6 +1,1 @@
-file inside level1 folder
-<<<<<<< HEAD
-added this line today - just now
-=======
-editing from remote repository
->>>>>>> ad80341a1183dfd334b8e8dd087f7b85cd77e25d
+new content of level1.txt
