@@ -4,3 +4,4 @@ changed again third time
 fourth change
 change done but not committed
 change in testing branch
+conflict demo
