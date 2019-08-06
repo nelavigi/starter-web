@@ -4,4 +4,8 @@ changed again third time
 fourth change
 change done but not committed
 change in testing branch
+<<<<<<< HEAD
 changing new.txt from master branch
+=======
+conflict demo
+>>>>>>> testing
