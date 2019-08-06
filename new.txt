@@ -4,3 +4,4 @@ changed again third time
 fourth change
 change done but not committed
 change in testing branch
+changing new.txt from master branch
