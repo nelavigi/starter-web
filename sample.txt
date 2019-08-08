@@ -1,3 +1,4 @@
 adding some content
 first modification done after the initial creation
 changing from master branch
+changing this file for stash demo
